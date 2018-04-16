@@ -1,0 +1,38 @@
+body{
+	font-family: Open Sans;
+    font-size: 15px;
+    line-height: 1.5;
+	height: 100%;
+	margin: 5px;
+	padding: 5px;
+
+} 
+h2{
+	text-decoration: underline;
+}
+img{
+	width:400px;
+	height: 400px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.span{
+	text-align: center;
+	text-decoration: underline;
+}
+
+.div1{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.div2{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.spans{
+	text-align: center;
+	text-decoration: underline;
+}
